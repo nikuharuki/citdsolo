@@ -1,0 +1,12 @@
+Sum of Digits
+Description: Write a program that calculates the sum of the digits in an array.
+
+Instructions:
+
+Initialize an array with 5 digits.
+Calculate the sum of the digits in the array.
+Print the sum of digits.
+
+Sample Output:
+// [5, 6, 3, 7, 3]
+Sum of digits: 24

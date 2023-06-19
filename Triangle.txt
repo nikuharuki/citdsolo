@@ -1,0 +1,19 @@
+Triangle Printer
+Description: Write a program that prints a Triangle of a given height.
+
+Instructions:
+
+Initialize the size of the triangle (number of rows).
+Print a triangle pattern using asterisks (*) and spaces ().
+Print the triangle row by row.
+
+Sample Output:
+//Height = "5"
+
+Triangle:
+
+    *
+   ***
+  *****
+ *******
+*********

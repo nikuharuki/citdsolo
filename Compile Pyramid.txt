@@ -1,0 +1,14 @@
+Compile pyramid
+
+Instruction:
+Write a program that initializes a string "COMPILE" and prints a pyramid pattern using the letters of the word.
+Each row of the pyramid should contain the letters from the beginning of the word up to that row's position. 
+
+Sample Output:
+C
+CO
+COM
+COMP
+COMPI 
+COMPIL 
+COMPILE

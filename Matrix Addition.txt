@@ -1,0 +1,28 @@
+Matrix Addition
+Description: Write a program that performs addition of two given matrices.
+
+Instructions:
+
+Prompt the user for the dimensions of the matrices (rows and columns).
+Prompt the user to enter the elements of the first matrix row by row.
+Prompt the user to enter the elements of the second matrix row by row.
+Perform matrix addition using the given matrices.
+Print the resulting matrix.
+
+Example:
+Enter the dimensions of the matrices:
+Rows: 2
+Columns: 2
+
+Enter the elements of the first matrix:
+1 2
+3 4
+
+Enter the elements of the second matrix:
+5 6
+7 8
+
+Resulting matrix:
+6 8
+10 12
+

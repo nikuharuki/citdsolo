@@ -1,0 +1,16 @@
+Celsius to Fahrenheit Conversion
+Description: Write a program that converts a temperature in Celsius to Fahrenheit.
+
+Instructions:
+
+Prompt the user for the temperature in Celsius.
+formula: (C * 9/5) + 32.
+Print the converted temperature in Fahrenheit.
+
+
+Sample Input:
+Enter the temperature in Celsius: 25
+
+Sample Output:
+Temperature in Fahrenheit: 77
+

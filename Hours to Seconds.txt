@@ -1,0 +1,5 @@
+Hours to Seconds
+
+Instructions:
+Create a program that prompts the user for an amount of hours, then converts it into seconds.
+

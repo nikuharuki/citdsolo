@@ -1,0 +1,10 @@
+Vowel Counter
+Description: Write a program that counts the number of vowels in a given string.
+
+Instructions:
+Initialize a string.
+Count and print the number of vowels in the string.
+
+Sample Output:
+//Hello, World!
+Number of vowels: 3

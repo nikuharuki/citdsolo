@@ -1,0 +1,11 @@
+Reverse a String
+Description: Write a program that reverses a given string.
+
+Instructions:
+Initialize a string.
+Reverse the string.
+Print the reversed string.
+
+Sample Output:
+Reversed string: !dlroW ,olleH
+

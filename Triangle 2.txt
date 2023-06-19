@@ -1,0 +1,13 @@
+Triangle 2
+Instructions:
+Write a program that takes an integer n as input and prints a triangle pattern consisting of n rows. 
+Each row should contain consecutive numbers starting from 1 up to the corresponding row number.
+
+Sample Output:2
+//if n is 5, the output should be:
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5

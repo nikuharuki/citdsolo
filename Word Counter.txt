@@ -1,0 +1,14 @@
+Word Counter
+Description: Write a program that counts the number of words in a given sentence.
+
+Instructions:
+
+Prompt the user for a sentence.
+Count the number of words in the sentence.
+Print the number of words.
+
+
+Example:
+Enter a sentence: The quick brown fox jumps over the lazy dog.
+
+Output: The sentence contains 9 words.

@@ -1,0 +1,9 @@
+Largest Number in an Array
+Description: Write a program that finds the largest number in an array of integers.
+
+Instructions:
+Initialize an array with 5 different numbers.
+Find and print the largest number in the array.
+
+Sample Output:
+Largest number: 9

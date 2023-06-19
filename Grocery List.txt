@@ -1,0 +1,18 @@
+Grocery List
+
+Instructions:
+Create a program that prompts the user for 5 items, one per line.
+Then output the user’s grocery list, prefixing each line with the number of times the user inputted that item. 
+
+Sample Input:
+apple                                                                           
+banana                                                                          
+banana                                                                          
+ice cream
+orange
+
+Sample Output:
+1 apple
+2 banana
+1 ice cream
+1 orange

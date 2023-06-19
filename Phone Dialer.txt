@@ -1,0 +1,23 @@
+Phone Dialer
+
+Instructions:
+program that prompts the user for a word and converts each letter
+to the corresponding number, printing the number as many times as needed to meet the letter.
+
+
+	
+1	    2       3
+none   ABC     DEF
+4       5       6
+GHI    JKL     MNO
+7       8       9
+PQRS   TUV     WXYZ
+        0
+       none
+
+
+Sample Input:
+Hello
+
+Sample Output:
+4433555555666
