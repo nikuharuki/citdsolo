@@ -1,0 +1,15 @@
+Sum of Digits
+Description: instead of calculating the sum of the digits in a single number, 
+we calculate the sum of the digits in each number of the array and then sum up 
+all those digit sums to obtain the final result.
+
+Instructions:
+Initialize an array with at least 5 numbers.
+Calculate the sum of the digits in each number of the array.
+Calculate the sum of all the digit sums obtained.
+Print the sum of the digit sums.
+
+Sample Output:
+// [123, 45, 6789, 10, 555]
+Digit sums: [6, 9, 30, 1, 15]
+Sum of digit sums: 61
