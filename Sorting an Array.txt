@@ -1,5 +1,7 @@
 Sorting an Array
-This program sorts an array of integers in ascending order. Additionally, it identifies and removes any duplicate elements from the array before sorting it. The sorted array is then printed as the output.
+This program sorts an array of integers in ascending order. Additionally, it 
+identifies and removes any duplicate elements from the array before sorting it. 
+The sorted array is then printed as the output.
 
 Instructions:
 Declare an array of integers.
@@ -11,7 +13,9 @@ Print the sorted array.
 Sample Input:
 [7, 2, 9, 1, 5, 10, 3, 6, 8, 4, 5, 2, 9]
 
-Output: The program will remove the duplicate elements from the array and sort it in ascending order. The expected output will display the sorted array with each element separated by a space.
+Output: The program will remove the duplicate elements from the array and sort it 
+in ascending order. The expected output will display the sorted array with each element 
+separated by a space.
 
 1 2 3 4 5 6 7 8 9 10
 
